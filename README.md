@@ -68,6 +68,10 @@ TrekSync Trip Planner is trip Organizer and planning App built for trip creation
 
 ## Screenshots
 
+### Home (Entry-Point)
+
+<img src="images/trip_form_screen.png" width="350" alt="Home (Entry-Point)">
+
 ### Add Trip (Family)
 <img src="images/trip_detail_screen_family_add.png" width="350" alt="Add Trip (Family)">
 
