@@ -1,7 +1,7 @@
 
 # TrekSync Trip Planner
 
-<img src="/path/to/your/images/trip_list_screen.png" width="350" alt="TrekSync Trip Planner Screenshot">
+<img src="images/trip_list_screen.png" width="350" alt="TrekSync Trip Planner Screenshot">
 
 TrekSync Trip Planner is trip Organizer and planning App built for trip creation and management. It allows users to add, edit, and view trips, ensuring smooth and organized travel planning. Ensure dependencies and plugin versions are up to date before running.
 
