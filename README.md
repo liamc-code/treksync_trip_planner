@@ -1,9 +1,9 @@
 
 # TrekSync Trip Planner
 
-<img src="images/trip_list_screen.png" width="350" alt="TrekSync Trip Planner Screenshot">
-
 TrekSync Trip Planner is trip Organizer and planning App built for trip creation and management. It allows users to add, edit, and view trips, ensuring smooth and organized travel planning. Ensure dependencies and plugin versions are up to date before running.
+
+<img src="images/trip_list_screen.png" width="250" alt="TrekSync Trip Planner Screenshot">
 
 ## Table of Contents
 
@@ -69,22 +69,22 @@ TrekSync Trip Planner is trip Organizer and planning App built for trip creation
 ## Screenshots
 
 ### Add Trip (Family)
-<img src="/path/to/your/images/trip_detail_screen_family_add.png" width="350" alt="Add Trip (Family)">
+<img src="images/trip_detail_screen_family_add.png" width="350" alt="Add Trip (Family)">
 
 ### Add Trip (Group)
-<img src="/path/to/your/images/trip_detail_screen_group_add.png" width="350" alt="Add Trip (Group)">
+<img src="/images/trip_detail_screen_group_add.png" width="350" alt="Add Trip (Group)">
 
 ### Edit Trip (Group)
-<img src="/path/to/your/images/trip_detail_screen_group_edit.png" width="350" alt="Edit Trip (Group)">
+<img src="/images/trip_detail_screen_group_edit.png" width="350" alt="Edit Trip (Group)">
 
 ### Add Trip (Individual)
-<img src="/path/to/your/images/trip_detail_screen_individual_add.png" width="350" alt="Add Trip (Individual)">
+<img src="/images/trip_detail_screen_individual_add.png" width="350" alt="Add Trip (Individual)">
 
 ### Edit Trip (Individual)
-<img src="/path/to/your/images/trip_detail_screen_individual_edit.png" width="350" alt="Edit Trip (Individual)">
+<img src="/images/trip_detail_screen_individual_edit.png" width="350" alt="Edit Trip (Individual)">
 
 ### Trip List
-<img src="/path/to/your/images/trip_list_screen.png" width="350" alt="Trip List">
+<img src="/images/trip_list_screen.png" width="350" alt="Trip List">
 
 ## License
 
